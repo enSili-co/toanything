@@ -1,5 +1,5 @@
 {
-  "name": "ToAnything: Convert all your media",
+  "name": "ToAnything: Batch media converter for Mac",
   "icons": [
     {
       "src": "favico/android-icon-36x36.png",
@@ -39,7 +39,7 @@
     }
   ],
   "short_name": "ToAnything",
-  "description": "Write, style, preview and export markdown in macOS. The easiest Markdown editor for Mac.",
+  "description": "Batch media conversion for macOS, made easy.",
   "start_url": "/",
   "display": "standalone"
 }
