@@ -11,11 +11,11 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://s3.amazonaws.com/ensili.co/markdownplus-3.2.zip
+▶︎ https://ensili.co/download/toanything/toanything-1.2.zip
 
 # Official Website
 
-▶︎ https://toanything.app
+▶︎ https://ensili.co/app/toanything
 
 # Issues
 
